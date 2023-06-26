@@ -9,7 +9,7 @@ Inorder to run and install the code, FirstdDownload the file as zip and open it.
 ## How to use the project
 The Project is used t predict if a customer stays or not using independet features or columns. If you git a columns the module needs for prediction and passed it by processor pipline, it can predict you record customer exist or not. The model can work perfectly up 85 from given datasets
 
-## Credicts
+## Credits
 
 This work a collaboration best freinds as a team. It takes one month in order to understand the bussines side and to result a good performance.
 
