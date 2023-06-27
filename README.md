@@ -15,10 +15,14 @@ This work a collaboration best freinds as a team. It takes one month in order to
 
 ## Contributers
 Henok Solomon Dirirsa - henok.dirirsa@azubiafrica.org
+
 Daniel Cobina Teye - daniel.teye@azubiafrica.org
+
 Faith Kilango - faith.kilango@azubiafrica.org
+
 Lawernce  Larweh - lawrence.larweh@azubiafrica.org
-abdulakeem.adebayo@azubiafrica.org
+
+Abdulhakeem Adibayo - abdulakeem.adebayo@azubiafrica.org
 
 # Further links
 Article Documentation - https://medium.com/@heneyr24/customer-churn-prediction-using-classification-modelling-in-ml-664120d4635d
