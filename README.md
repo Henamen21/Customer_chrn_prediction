@@ -1,44 +1,28 @@
-# Customer_churn_prediction
-Machine learning
-This is a code to predict weather a customer leave from vodafone Telecommunication company or stay depending some sort of datas.
+# Customer_churn_prediction : using classification modelling 
 
-The data has a column listed here
+## Project Description
+Vodafone is a telecommunication company serving multinational services. It operate mainly and dominantly in Asia, Africa and Europe. The name "Vodafone" is choose because it has a meaning. It is a short for "Voice over fone(Phone)". This work is to predict whether a customer leave from vodafone Telecommunication company or stay depending some sort of datas.
 
-Customer ID - The unique number of the customer
+## How to run and install
+Inorder to run and install the code, FirstdDownload the file as zip and open it. The choose the Jupyter Source File named as "Customer_churn_prediction.ipynb". This notbook file has libraries needs to be loaded and some installation using pip command. pip is Preferred Installer Program which installs libraries written by python from the web. Please make sure you have either Jupyter notebook or visual Studio Code with add python extention.
 
-Gender - Customers gender
+## How to use the project
+The Project is used t predict if a customer stays or not using independet features or columns. If you git a columns the module needs for prediction and passed it by processor pipline, it can predict you record customer exist or not. The model can work perfectly up 85 from given datasets
 
-Senior Citizen - check the customers citizan type
+## Credits
 
-partner - identifying customer weather he/she is a partner
+This work a collaboration best freinds as a team. It takes one month in order to understand the bussines side and to result a good performance.
 
-Dependent - see if they have dependents
+## Contributers
+Henok Solomon Dirirsa - henok.dirirsa@azubiafrica.org
 
-tenure - how long the customer stayed with the company
+Daniel Cobina Teye - daniel.teye@azubiafrica.org
 
-phone service - check if they use a service of phone
+Faith Kilango - faith.kilango@azubiafrica.org
 
-multiple line - if they have multi lines
+Lawernce  Larweh - lawrence.larweh@azubiafrica.org
 
-internet service - the type of internet they are using
+Abdulhakeem Adibayo - abdulakeem.adebayo@azubiafrica.org
 
-internet security - checking if they have security on internet 
-
-online backup - they service of backup system deliverd
-
-device pro - if they have a device with pro 
-
-tech support - customers support on technical solution
-
-streaming tv - did they use streaming tv movies
-
-contract - the agreement between the company and the customer
-
-paperless - if they use a method like paperless or not
-
-payment method - the way customers make a payment
-
-monthly charge - amount of charge they pay
-
-total charges - total amount of charge the pay
-
+# Further links
+Article Documentation - https://medium.com/@heneyr24/customer-churn-prediction-using-classification-modelling-in-ml-664120d4635d
